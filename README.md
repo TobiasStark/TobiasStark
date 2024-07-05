@@ -8,8 +8,8 @@
 
 🔧 **Skills:**
 
-- **Programming Languages:** C, Java, Python, JavaScript
-- **Web Development:** HTML, CSS, Django
+- **Programming Languages:** C, Python, JavaScript
+- **Web Development:** HTML, CSS, Django, Tailwind
 - **Databases:** PostgreSQL
 
 🚀 **Current Projects:**

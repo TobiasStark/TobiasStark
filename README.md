@@ -1,5 +1,8 @@
 # 💫 About Me:
-Django <3
+
+questioning my sanity rn
+
+Django <3 Svelte <3
 
 
 # 💻 Tech Stack:

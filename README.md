@@ -1,6 +1,6 @@
 NYAAA
 
-Tired Femboy<br>Sveltekit my beloved <3<br>Django <3
+<br>Sveltekit my beloved <3<br>Django <3
 
 
 # Tech:

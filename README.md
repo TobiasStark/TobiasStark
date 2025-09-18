@@ -8,7 +8,7 @@ I'm a developer focused on building modern web applications. My current stack of
 
 #### Current Projects & Interests
 
-- **F.A.R.T (Fending Against Random Threats):**A simple tower defense game using Sveltekit and Babylon.js to create a relaxing and visually pleasing web experience.
+- **F.A.R.T (Fending Against Random Threats):** A simple tower defense game using Sveltekit and Babylon.js to create a relaxing and visually pleasing web experience.
 - **Learning:** Exploring React and Express.js
 - **Collaboration:** Open to collaborating on projects that involve my current tech stack.
 

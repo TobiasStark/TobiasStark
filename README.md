@@ -1,5 +1,3 @@
-NYAAA
-
 <br>Sveltekit my beloved <3<br>Django <3
 
 
